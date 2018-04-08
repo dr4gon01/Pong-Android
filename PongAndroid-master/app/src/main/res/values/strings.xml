@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PongAndroid</string>
+    <string name="pong_game_title">Pong</string>
+    <string name="game_start_btn">start</string>
+</resources>
