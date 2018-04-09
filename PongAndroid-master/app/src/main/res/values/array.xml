@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="game_mode_list">
+        <item>"Player vs Player"</item>
+        <item>"Player vs Enemy"</item>
+        <item>"Wall"</item>
+    </array>
+</resources>

@@ -2,4 +2,8 @@
     <string name="app_name">PongAndroid</string>
     <string name="pong_game_title">Pong</string>
     <string name="game_start_btn">start</string>
+    <string name="pick_game_mode">Pick your game mode</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

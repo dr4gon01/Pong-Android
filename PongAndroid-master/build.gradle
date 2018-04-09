@@ -2,6 +2,7 @@
 
 buildscript {
     ext.kotlin_version = '1.2.30'
+
     repositories {
         google()
         jcenter()
@@ -24,4 +25,8 @@ allprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+ext{
+    databindingCompilerVersion = '3.1.0'
 }
